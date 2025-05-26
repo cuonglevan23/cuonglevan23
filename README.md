@@ -5,7 +5,7 @@
 - 🐍 I'm fluent in **Python**, from scripting to production pipelines
 - 🔭 Currently exploring **Spark**, **Hadoop**, and scalable ML workflows
 - 💬 Ask me about **NumPy, pandas, PyTorch, TensorFlow, Scikit-learn, Apache Spark**
-- 📫 How to reach me: **cuonglevan.dev@gmail.com**
+- 📫 How to reach me: **cuongvanle1011@gmail.com**
 - 🌱 I'm currently learning more about **LLMs and MLOps**
 
 ---
@@ -30,9 +30,9 @@
 ---
 
 ### 🔍 Highlight Projects
-- 🚀 [Big Data Crime Analysis with Spark](https://github.com/cuonglevan23/crime-analysis-spark)
-- 🤖 [Deep Learning for Image Classification](https://github.com/cuonglevan23/dl-image-classification)
-- 📊 [ML Models in Production (Flask & Streamlit)](https://github.com/cuonglevan23/ml-deploy)
+- 🚀 [Big Data Crime Analysis with Spark]([https://github.com/cuonglevan23/crime-analysis-spark](https://github.com/cuonglevan23/code_bigdata))
+- 🤖 [Deep Learning for Image Classification]([https://github.com/cuonglevan23/dl-image-classification](https://github.com/cuonglevan23/Security_Management_System))
+- 📊 [ML Models in Production (Flask & Streamlit)]([https://github.com/cuonglevan23/ml-deploy](https://github.com/cuonglevan23/DACN3_PHOBERT))
 
 ---
 
