@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+###  Tech Stack & Tools:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
@@ -23,16 +23,16 @@
 
 ---
 
-### 📈 GitHub Stats:
+###  GitHub Stats:
 ![Cuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuonglevan23&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cuonglevan23&layout=compact)
 
 ---
 
-### 🔍 Highlight Projects
-- 🚀 [Big Data Crime Analysis with Spark]([https://github.com/cuonglevan23/crime-analysis-spark](https://github.com/cuonglevan23/code_bigdata))
-- 🤖 [Deep Learning for Image Classification]([https://github.com/cuonglevan23/dl-image-classification](https://github.com/cuonglevan23/Security_Management_System))
-- 📊 [ML Models in Production (Flask & Streamlit)]([https://github.com/cuonglevan23/ml-deploy](https://github.com/cuonglevan23/DACN3_PHOBERT))
+###  Highlight Projects
+-  [Big Data Crime Analysis with Spark]([https://github.com/cuonglevan23/crime-analysis-spark](https://github.com/cuonglevan23/code_bigdata))
+-  [Deep Learning for Image Classification]([https://github.com/cuonglevan23/dl-image-classification](https://github.com/cuonglevan23/Security_Management_System))
+-  [ML Models in Production (Flask & Streamlit)]([https://github.com/cuonglevan23/ml-deploy](https://github.com/cuonglevan23/DACN3_PHOBERT))
 
 ---
 
