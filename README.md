@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Cuong Le</h1>
+<h1 align="center">Hi, I'm Cuong Le</h1>
 <h3 align="center">A passionate Python developer specializing in ML, DL, and Big Data</h3>
 
-- 🧠 I work with **Machine Learning**, **Deep Learning**, and **Big Data technologies**
-- 🐍 I'm fluent in **Python**, from scripting to production pipelines
-- 🔭 Currently exploring **Spark**, **Hadoop**, and scalable ML workflows
-- 💬 Ask me about **NumPy, pandas, PyTorch, TensorFlow, Scikit-learn, Apache Spark**
-- 📫 How to reach me: **cuongvanle1011@gmail.com**
-- 🌱 I'm currently learning more about **LLMs and MLOps**
+-  I work with **Machine Learning**, **Deep Learning**, and **Big Data technologies**
+-  I'm fluent in **Python**, from scripting to production pipelines
+-  Currently exploring **Spark**, **Hadoop**, and scalable ML workflows
+-  Ask me about **NumPy, pandas, PyTorch, TensorFlow, Scikit-learn, Apache Spark**
+-  How to reach me: **cuongvanle1011@gmail.com**
+-  I'm currently learning more about **LLMs and MLOps**
 
 ---
 
